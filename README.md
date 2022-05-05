@@ -1,2 +1,2 @@
 # first-repo
-##progect notes
+##project notes
